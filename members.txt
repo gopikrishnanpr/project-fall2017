@@ -1,1 +1,5 @@
-# Your Project Members go here, as GitHub usernames
+# Project Members
+Sanket Sinha - sanket1sinha
+Akhil Sajitha Sreehari - Akhil-Sreehari
+Gopikrishnan Pararath Radhakrishnan - gopikrishnanpr
+Kashish Kothara - kkotha4
